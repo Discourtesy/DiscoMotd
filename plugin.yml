@@ -1,0 +1,4 @@
+name: DiscoMotd
+version: 0.1
+author: Disc
+main: ru.disc.motd.Main
